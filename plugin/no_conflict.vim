@@ -1,7 +1,7 @@
-if exists('g:loaded_no_conflict') && g:loaded_no_conflict
+if exists('g:loaded_interruptless') && g:loaded_interruptless
   finish
 endif
-let g:loaded_no_conflict = 1
+let g:loaded_interruptless = 1
 
 let s:save_cpo = &cpo
 set cpo&vim

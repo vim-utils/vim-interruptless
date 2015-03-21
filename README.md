@@ -1,4 +1,4 @@
-# no-conflict.vim
+# interruptless.vim
 
 When both file on disk and vim's buffer are changed you'll be presented with
 this:
